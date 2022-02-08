@@ -1,0 +1,4 @@
+Estos son los proyectos de finales que realizan para los finales de las materias de Practicas profesionales y EDI III.
+Acerca de los proyectos.
+Practicas profesionales: Una empresa nos encarga que hagamos una pagina web, donde se pueden realizar pedidos. Donde también tendrán distintos niveles de acceso, nos pedían que se diviertan en: empleados, supervisores y administradores.
+EDI III: Consistía en armar una página web donde aplicamos Altas, bajas y modificación y también aumentarán contar con Bootstrap y buscadores.
